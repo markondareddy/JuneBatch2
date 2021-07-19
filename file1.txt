@@ -2,3 +2,5 @@ added file1
 
 
 added new line
+
+addes second line
